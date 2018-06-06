@@ -1,25 +1,25 @@
-# #!/usr/bin/env python
-# # -*- coding: utf-8 -*-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-# """
-# test_dp
-# ------------
+"""
+test_dp
+------------
 
-# Tests for `dp` models module.
-# """
+Tests for `dp` models module.
+"""
 
-# from django.test import TestCase
+from django.test import TestCase
 
-# from dp import models
+from dp import models
 
 
-# class TestDp(TestCase):
+class TestDp(TestCase):
 
-#     def setUp(self):
-#         pass
+    def setUp(self):
+        pass
 
-#     def test_something(self):
-#         pass
+    def test_something(self):
+        pass
 
-#     def tearDown(self):
-#         pass
+    def tearDown(self):
+        pass
